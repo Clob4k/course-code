@@ -1,2 +1,3 @@
-# code-backups
-backups for codes
+# code-learning
+
+codes / examples from individual learning
