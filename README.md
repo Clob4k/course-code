@@ -1,4 +1,4 @@
-# code-learning
+# course-code
 
 codes / examples from individual learning
 
